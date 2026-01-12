@@ -1,0 +1,16 @@
+total 32
+drwxr-xr-x. 6 centos centos 4096 Jan 12 13:46 .
+drwxr-xr-x. 3 centos centos   18 Jan 12 13:43 ..
+drwxr-xr-x. 2 centos centos    6 Jan 12 13:44 backups
+-rw-r--r--. 1 centos centos   70 Jan 12 13:46 combined.txt
+-rw-r--r--. 1 centos centos    0 Jan 12 13:46 directory-listing.txt
+drwxr-xr-x. 2 centos centos   43 Jan 12 13:44 documents
+-rw-r--r--. 1 centos centos   70 Jan 12 13:46 error.txt
+-rw-r--r--. 1 centos centos  654 Jan 12 13:45 file-listing.txt
+-rw-r--r--. 1 centos centos   14 Jan 12 13:45 numbers.txt
+-rw-r--r--. 1 centos centos    0 Jan 12 13:46 output.txt
+drwxr-xr-x. 3 centos centos   17 Jan 12 13:44 projects
+drwxr-xr-x. 2 centos centos    6 Jan 12 13:44 scripts
+-rw-r--r--. 1 centos centos   14 Jan 12 13:45 sorted-numbers.txt
+-rw-r--r--. 1 centos centos   82 Jan 12 13:44 system-info.txt
+-rw-r--r--. 1 centos centos   26 Jan 12 13:44 welcome.txt

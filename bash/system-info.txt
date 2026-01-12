@@ -1,0 +1,4 @@
+System Information Lab File
+Created on: $(date)
+User: $(whoami)
+Directory: $(pwd)

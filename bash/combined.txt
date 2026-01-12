@@ -1,0 +1,1 @@
+ls: cannot access '/nonexistent-directory': No such file or directory

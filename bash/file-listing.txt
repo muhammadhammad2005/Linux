@@ -1,0 +1,16 @@
+total 8
+drwxr-xr-x. 6 centos centos 135 Jan 12 13:45 .
+drwxr-xr-x. 3 centos centos  18 Jan 12 13:43 ..
+drwxr-xr-x. 2 centos centos   6 Jan 12 13:44 backups
+drwxr-xr-x. 2 centos centos  43 Jan 12 13:44 documents
+-rw-r--r--. 1 centos centos   0 Jan 12 13:45 file-listing.txt
+drwxr-xr-x. 3 centos centos  17 Jan 12 13:44 projects
+drwxr-xr-x. 2 centos centos   6 Jan 12 13:44 scripts
+-rw-r--r--. 1 centos centos  82 Jan 12 13:44 system-info.txt
+-rw-r--r--. 1 centos centos  26 Jan 12 13:44 welcome.txt
+Mon Jan 12 13:45:15 UTC 2026
+Mon Jan 12 13:45:16 UTC 2026
+Mon Jan 12 13:45:16 UTC 2026
+--- End of listing ---
+--- End of listing ---
+--- End of listing ---
