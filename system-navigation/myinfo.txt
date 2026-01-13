@@ -1,0 +1,4 @@
+Name: Student
+Course: Red Hat System Administration
+Lab: File System Navigation
+Date: $(date)
