@@ -5,4 +5,5 @@ else
   path=$1
 fi
 
-ls -l $path
+ls -l "$path"
+
