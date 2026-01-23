@@ -1,0 +1,40 @@
+=== System Information Report ===
+Date: Fri Jan 23 05:18:58 UTC 2026
+Uptime:  05:18:58 up 10 min,  2 users,  load average: 0.06, 0.09, 0.07
+Memory Usage:
+Memory Usage:
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       1.0Gi        13Gi        25Mi       818Mi        14Gi
+Swap:             0B          0B          0B
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        7.5G     0  7.5G   0% /dev
+tmpfs           7.7G     0  7.7G   0% /dev/shm
+tmpfs           3.1G   18M  3.1G   1% /run
+efivarfs        128K  4.1K  119K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p4   29G  7.1G   22G  25% /
+/dev/nvme0n1p3  966M  800M  100M  89% /boot
+/dev/nvme0n1p2  500M   11M  489M   3% /boot/efi
+tmpfs           1.6G   56K  1.6G   1% /run/user/42
+tmpfs           1.6G   36K  1.6G   1% /run/user/1001
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        7.5G     0  7.5G   0% /dev
+tmpfs           7.7G     0  7.7G   0% /dev/shm
+tmpfs           3.1G   18M  3.1G   1% /run
+efivarfs        128K  4.1K  119K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p4   29G  7.1G   22G  25% /
+/dev/nvme0n1p3  966M  800M  100M  89% /boot
+/dev/nvme0n1p2  500M   11M  489M   3% /boot/efi
+tmpfs           1.6G   56K  1.6G   1% /run/user/42
+tmpfs           1.6G   36K  1.6G   1% /run/user/1001
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        7.5G     0  7.5G   0% /dev
+tmpfs           7.7G     0  7.7G   0% /dev/shm
+tmpfs           3.1G   18M  3.1G   1% /run
+efivarfs        128K  4.1K  119K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p4   29G  7.1G   22G  25% /
+/dev/nvme0n1p3  966M  800M  100M  89% /boot
+/dev/nvme0n1p2  500M   11M  489M   3% /boot/efi
+tmpfs           1.6G   56K  1.6G   1% /run/user/42
+tmpfs           1.6G   36K  1.6G   1% /run/user/1001
