@@ -16,9 +16,9 @@ All labs are designed for learning, experimentation, and practical understanding
 
 ## 🧪 Lab Environment
 
-- **OS:** Linux (local machine)
+- **OS:** Linux (Al Nafi Cloud lab environment)
 - **Shell:** Bash
-- **Execution:** Local scripts and commands
+- **Execution:** Remote cloud machines provided by Al Nafi International College
 - **Focus:** Safe, reproducible learning labs
 
 ## 📂 Repository Structure
@@ -72,6 +72,5 @@ New labs and more advanced Linux automation examples will be added over time.
 
 ## 📘 Notes
 
-Designed for learning and practice
-Scripts focus on clarity and real usage
-Reflects practical Linux administration experience
+- Labs are performed on **remote cloud machines** provided by Al Nafi International College
+- Scripts are designed for learning and demonstration
